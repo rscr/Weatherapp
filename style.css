@@ -1,0 +1,88 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightblue;
+}
+
+.container {
+    width: 500px;
+    height: 500px;
+    background-color: darkcyan;
+    display: block;
+    margin: 0 auto;
+    border-radius: 5px;
+    margin-top: 100px;
+    padding-bottom: 100px;
+}
+
+.title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title p{
+    text-align: center;
+    padding-top: 10px;
+    font-size: 50px;
+    color: yellow;
+}
+
+
+.input-text {
+    text-align: center;
+    padding-top: 20px;
+    font-size: ;
+}
+
+.input-box {
+    height: 40px;
+    width: 200px;
+    font-size: 20px;
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+
+.weather-container {
+    background-color: cyan;
+    margin-top: 50px;
+    height: 120px;
+}
+
+.temp-description {
+    text-align: center;
+}
+
+.temp-description p {
+    padding: 0;
+    margin: 0;
+    color: black;
+    font-size: 2em;
+}
+
+.location-text {
+    text-align: center;
+}
+
+.location-text p {
+    padding: 0;
+    margin: 0;
+    color: black;
+    font-size: 2em;
+    
+}
+
+.temp-value {
+    text-align: center;
+}
+
+.temp-value p {
+    padding: 0;
+    margin: 0;
+    color: black;
+    font-size: 2em;
+    
+}
